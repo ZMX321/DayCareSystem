@@ -1,0 +1,21 @@
+nothing,first_name,last_name,id,classroom_id,teacher_name,teacher_id,age,father_name,mother_name,Hib,DTaP,Polio,Hepatitis B,MMR,Varicella
+ ,Jimmy,Potter,1,1,Albus Dumbledore,1,12,James Potter,Lily Potter ,2020/4/23,2020/7/29,2020/7/16,2019/11/5,2020/3/1,2020/8/8
+ ,Johnny,Hagrid,2,1,Albus Dumbledore,1,12,Rubeus Hagrid,Rita Skeeter,2020/6/1,2020/7/24,2020/7/10,2020/7/1,2020/2/8,2020/5/30
+ ,Jackie,Fudge,3,1,Albus Dumbledore,1,12,Cornelius Fudge,Seamus Finnigan,2020/4/21,2020/3/10,2020/6/30,2020/1/18,2020/5/15,2020/7/22
+ ,Cathey,Malfoy,4,1,Albus Dumbledore,1,12,Draco Malfoy,Nicolas Flamel,2020/5/1,2020/6/30,2019/10/23,2020/2/27,2019/12/28,2020/4/25
+ ,Jessie,Bagman,5,2,Severus Snape,2,14,Ludo Bagman,Katie Bell,2019/10/15,2019/8/17,2020/5/29,2020/5/31,2019/10/24,2019/10/21
+ ,Sally,Weasley,6,2,Severus Snape,2,23,Ron Weasley,Ginny Weasley,2019/6/12,2019/12/6,2020/4/10,2020/4/15,2018/10/16,2019/4/10
+ ,Billy,Patil,7,3,Remus Lupin,3,26,Parvati Patil,Ernie Mcmillan,2019/6/28,2020/2/23,2019/7/9,2019/3/30,2020/8/10,2018/11/16
+ ,Laurie,Dursley,8,3,Remus Lupin,3,27,Vernon Dursley,Petunia Dursley,2019/12/2,2019/12/1,2019/3/6,2020/8/11,2019/10/7,2019/2/14
+ ,Becky,Moody,9,3,Remus Lupin,3,29,Mad-eye Moody,Rita Skeeter,2018/12/22,2019/12/23,2019/5/23,2019/12/14,2020/8/6,2019/11/17
+ ,Annie,Longbottom,10,3,Remus Lupin,3,30,Neville Longbottom,Molly Weasley ,2020/7/6,2020/6/25,2020/2/4,2019/7/14,2019/3/23,2020/1/2
+ ,Markie,Riddle,11,3,Remus Lupin,3,32,Tom Riddle,Penelop Riddle,2020/7/11,2019/11/25,2018/10/23,2020/4/4,2019/3/7,2019/8/12
+ ,Ruthie,Weasley,12,3,Remus Lupin,3,34,Bill Weasley,Molly Weasley,2019/2/18,2020/5/5,2019/11/2,2019/6/7,2018/9/2,2020/6/11
+ ,Evie,Krum,13,4,Sybill Trelawney,4,40,Viktor Krum,Angelina Johnson,2050/1/1,2017/12/25,2019/2/14,2020/4/27,2018/4/16,2019/4/28
+ ,Mary,Crabbe,14,4,Sybill Trelawney,4,41,Vincent Crabbe,Millicent Bulstrode,2050/1/1,2017/3/5,2018/9/10,2017/12/23,2019/5/20,2020/6/13
+ ,Bobby,Brown,15,5,Rolanda Hooch,5,48,Lavender Brown,Bertha Jorkins,2050/1/1,2016/12/24,2018/3/4,2020/3/21,2019/5/14,2017/10/17
+ ,Stanley,Wood,16,5,Rolanda Hooch,5,53,Oliver Wood,Hannah Abbott,2050/1/1,2017/10/15,2018/5/17,2019/3/19,2018/10/18,2020/5/3
+ ,Lizzy,Granger,17,6,Minerva McGonagall,6,62,Hermione Granger,Colin Granger,2050/1/1,2018/5/30,2016/4/25,2019/3/15,2020/2/1,2020/8/1
+ ,Millie,Karkaroff,18,6,Minerva McGonagall,6,63,Igor Karkaro,Maxime Karkaro,2050/1/1,2016/2/18,2018/9/1,2017/10/25,2019/2/15,2020/3/6
+ ,Guojun,Wang,19,1,Horace Slughorn,7,9,Jerry,Tom,2020/2/1,2020/3/1,2020/4/1,2020/5/1,2020/6/1,2020/7/1
+ ,haoran,jia,20,1,Horace Slughorn,7,8,jack,marry,2020/1/1,2020/2/2,2020/3/3,2020/4/4,2020/5/5,2020/6/6
